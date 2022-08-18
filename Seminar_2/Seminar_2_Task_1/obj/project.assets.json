@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2_Task_1\\Seminar_2_Task_1.csproj",
+      "projectUniqueName": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2\\Seminar_2_Task_1\\Seminar_2_Task_1.csproj",
       "projectName": "Seminar_2_Task_1",
-      "projectPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2_Task_1\\Seminar_2_Task_1.csproj",
+      "projectPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2\\Seminar_2_Task_1\\Seminar_2_Task_1.csproj",
       "packagesPath": "C:\\Users\\eabdulmyanova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2_Task_1\\obj\\",
+      "outputPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2\\Seminar_2_Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eabdulmyanova\\AppData\\Roaming\\NuGet\\NuGet.Config"

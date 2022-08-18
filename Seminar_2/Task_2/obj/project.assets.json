@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Task_2\\Task_2.csproj",
+      "projectUniqueName": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2\\Task_2\\Task_2.csproj",
       "projectName": "Task_2",
-      "projectPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Task_2\\Task_2.csproj",
+      "projectPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2\\Task_2\\Task_2.csproj",
       "packagesPath": "C:\\Users\\eabdulmyanova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Task_2\\obj\\",
+      "outputPath": "C:\\Users\\eabdulmyanova\\Desktop\\C#2\\C-_\\Seminar_2\\Task_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eabdulmyanova\\AppData\\Roaming\\NuGet\\NuGet.Config"
