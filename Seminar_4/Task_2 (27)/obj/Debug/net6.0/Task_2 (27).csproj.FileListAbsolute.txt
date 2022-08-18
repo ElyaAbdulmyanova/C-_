@@ -1,0 +1,15 @@
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\bin\Debug\net6.0\Task_2 (27).exe
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\bin\Debug\net6.0\Task_2 (27).deps.json
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\bin\Debug\net6.0\Task_2 (27).runtimeconfig.json
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\bin\Debug\net6.0\Task_2 (27).dll
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\bin\Debug\net6.0\Task_2 (27).pdb
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).csproj.AssemblyReference.cache
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).AssemblyInfoInputs.cache
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).AssemblyInfo.cs
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).csproj.CoreCompileInputs.cache
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).dll
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\refint\Task_2 (27).dll
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).pdb
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\Task_2 (27).genruntimeconfig.cache
+C:\Users\eabdulmyanova\Desktop\C#2\C-_\Task_2 (27)\obj\Debug\net6.0\ref\Task_2 (27).dll
